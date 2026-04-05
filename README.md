@@ -1,4 +1,4 @@
-# soc-analyst-labs-detection-response-wazuh
+# soc-analyst-labs-detection-response
 Hands-on SOC analyst lab covering alert detection, log analysis, threat intelligence, incident response, and SOC workflows using Wazuh, TheHive, and security tools.
 # 🛡️ SOC Analyst Labs – Detection & Response 
 
@@ -17,10 +17,11 @@ This repository contains hands-on SOC analyst lab exercises focused on security 
 
 ## 📂 Lab Structure
 
-- Week 1 – Alert Analysis  
-- Week 2 – Log Analysis  
-- Week 3 – Threat Detection  
-- Week 4 – Incident Response  
+- Wazuh (SIEM)
+- TheHive (Incident Response & Case Management)
+- VirusTotal (Threat Intelligence)
+- Snort (IDS/IPS)
+- Velociraptor (DFIR & Endpoint Investigation)
 
 ---
 
